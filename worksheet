@@ -1,0 +1,3 @@
+
+get into mariadb database as root:
+mysql -A -u root -proot -h127.0.0.1 -P 13306
